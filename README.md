@@ -69,13 +69,7 @@ Whether you need a **high-performance MVP**, a **legacy system overhaul**, or a 
 </div>
 
 ---
-
-## **💼 Let's Collaborate**
-**Rate:** $25/hour  
-**Availability:** Open for new projects  
-
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehmanshabbir.se@gmail.com)
 
 > *"The best way to predict the future is to implement it."*  
 > *— Adapted from Alan Kay*
